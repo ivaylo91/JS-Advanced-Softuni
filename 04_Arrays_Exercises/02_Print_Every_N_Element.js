@@ -5,4 +5,5 @@ function printEveryNElement(input, n) {
 }
 
 printEveryNElement(['5', '20', '31', '4', '20'], 2);
-printEveryNElement(['dsa', 'asd', 'test', 'tset'],2)
+;
+printEveryNElement(['dsa', 'asd', 'test', 'tset'], 2);
